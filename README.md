@@ -1,5 +1,5 @@
 # Temu Reviews Scraper
-Interested in using this scraper? Get it here: [Temu Reviews Scraper](https://apify.com/curious_coder/temu-reviews-scraper)
+Interested in using this scraper? Get it here: [Temu Reviews Scraper](https://apify.com/curious_coder/temu-reviews-scraper?fpr=ve081&fp_sid=github_temu-reviews-scraper)
 ## How it works
 
 
